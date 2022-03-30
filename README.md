@@ -1,5 +1,5 @@
 # Pac-Man Project
-<img src= "PacMan1.png" width='300'>
+<img src= "images/PacMan1.png" width='300'>
 
 ## Description: 
 This code adds a user determined number of Pac-Men to the browser and bounces them off the edges of the browser window.
